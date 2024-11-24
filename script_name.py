@@ -1,4 +1,3 @@
-# Required Libraries
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -9,7 +8,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.feature_selection import SelectKBest, f_classif
 
 # File Path
-file_path = 'Week_filtered.csv'  # Replace with the actual file path in your Codespace
+file_path = 'Week_filtered.csv' 
 
 try:
     # Load Dataset

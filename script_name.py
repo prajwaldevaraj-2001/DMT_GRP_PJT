@@ -8,7 +8,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.feature_selection import SelectKBest, f_classif
 
 # File Path
-file_path = 'Week_filtered.csv' 
+file_path = r'C:\Users\Dell\Desktop\KSU\3_DMT\Week_filtered.csv' 
 
 try:
     # Load Dataset
